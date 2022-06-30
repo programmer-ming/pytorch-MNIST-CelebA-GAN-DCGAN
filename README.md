@@ -91,15 +91,12 @@ Pytorch implementation of Generative Adversarial Networks (GAN) [1] and Deep Con
 
 ## Development Environment
 
-* Ubuntu 14.04 LTS
-* NVIDIA GTX 1080 ti
-* cuda 8.0
-* Python 2.7.6
-* pytorch 0.1.12
-* torchvision 0.1.8
-* matplotlib 1.3.1
-* imageio 2.2.0
-* scipy 0.19.1
+* Python 3.8.10
+* pytorch 1.8.1
+* torchvision 0.9.1
+* matplotlib 3.4.3
+* imageio 2.9.10
+* scipy 1.8.0
 
 ## Reference
 
